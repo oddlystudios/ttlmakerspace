@@ -4,7 +4,7 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `StoryHub`,
+    title: `TTLMakerspace`,
     author: `Monnisa`,
     about: `Breakfast procuring no end happiness allowance assurance frank. Met simplicity nor difficulty unreserved who. Entreaties mr conviction dissimilar me
     astonished estimating cultivated.`,

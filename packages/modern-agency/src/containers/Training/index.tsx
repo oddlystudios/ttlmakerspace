@@ -63,7 +63,7 @@ const About: React.FunctionComponent<AboutProps> = props => {
   return (
     <AboutWrapper>
       <AboutPageTitle>
-        <h2>About TTLMakerspace</h2>
+        <h2>About TTLMakerspace Training</h2>
         <p>
           The TTLMakerspace is a well-equipped community center, where makers of
           all kinds come to work on projects, share information, participate in

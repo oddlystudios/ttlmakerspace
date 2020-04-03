@@ -30,12 +30,16 @@ const MenuItems = [
     url: "/about",
   },
   {
-    label: "Contact",
-    url: "/contact",
+    label: "Membership",
+    url: "/membership",
   },
   {
-    label: "404 Page",
-    url: "/404",
+    label: "Training",
+    url: "/training",
+  },
+  {
+    label: "Partners",
+    url: "/partners",
   },
 ]
 

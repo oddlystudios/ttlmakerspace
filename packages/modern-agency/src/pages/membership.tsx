@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import About from "../containers/About"
+import Membership from "../containers/Membership"
 
 type AboutPageProps = {}
 
@@ -10,10 +10,10 @@ const AboutPage: React.FunctionComponent<AboutPageProps> = props => {
     <Layout>
       <SEO
         title="About Us"
-        description="TTL Makerspace is a community learning hub, well-equipped for makers of all kinds."
+        description="StoryHub is a beautiful Gatsby Blog theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website."
       />
 
-      <About />
+      <Membership />
     </Layout>
   )
 }
