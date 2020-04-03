@@ -1,4 +1,4 @@
-require("dotenv").config({
+require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`,
 })
 
@@ -72,6 +72,9 @@ module.exports = {
           {
             resolve: `gatsby-remark-smartypants`,
           },
+          {
+            resolve: `gatsby-remark-responsive-iframe`,
+          },
         ],
       },
     },
@@ -115,10 +118,10 @@ module.exports = {
       resolve: `gatsby-plugin-lodash`,
     },
     {
-      resolve: "gatsby-plugin-mailchimp",
+      resolve: 'gatsby-plugin-mailchimp',
       options: {
         endpoint:
-          "https://oddlystudios.us9.list-manage.com/subscribe/post?u=1d7054c62a676d12369f0215f&amp;id=3f3f44a2b4", // add your MC list endpoint here; see instructions below
+          'https://oddlystudios.us9.list-manage.com/subscribe/post?u=1d7054c62a676d12369f0215f&amp;id=3f3f44a2b4', // add your MC list endpoint here; see instructions below
       },
     },
     {
