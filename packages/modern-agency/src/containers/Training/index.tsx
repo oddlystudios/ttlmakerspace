@@ -70,7 +70,15 @@ const About: React.FunctionComponent<AboutProps> = props => {
           events, and learn valuable skills.
         </p>
       </AboutPageTitle>
-
+      <div>
+        <iframe
+          src="https://calendar.google.com/calendar/embed?src=oddlystudios.com_lvog0mhp9p0t7bmut89ht3fqus%40group.calendar.google.com&ctz=America%2FToronto"
+          width="800"
+          height="600"
+          frameborder="0"
+          scrolling="no"
+        ></iframe>
+      </div>
       <AboutImage>
         <Image fluid={Data.avatar.childImageSharp.fluid} alt="author" />
       </AboutImage>
