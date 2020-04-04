@@ -1,5 +1,5 @@
 ---
-title: An example can be illustrative
+title: Mandalorian Helmets
 date: '2019-03-06T23:46:37.121Z'
 cover: './preview.jpg'
 tags: ['markdown', 'test', 'tips']

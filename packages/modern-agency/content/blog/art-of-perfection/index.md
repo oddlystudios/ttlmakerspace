@@ -1,5 +1,5 @@
 ---
-title: Perfecting the Art of Perfection
+title: Custom Slab Tables
 date: '2019-11-07'
 description: An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
 tags: ['javascript', 'hooks', 'featured']

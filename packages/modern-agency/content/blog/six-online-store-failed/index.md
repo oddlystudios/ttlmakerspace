@@ -1,5 +1,5 @@
 ---
-title: Six of My Online Stores Failed
+title: TechDrops Podcast on Anchor
 date: '2019-11-06'
 description: Did you know that “despite its name, salted duck eggs can also be made from chicken eggs, though the taste and texture will be somewhat different, and the egg yolk will be less rich.”?
 tags: ['javascript', 'hooks', 'featured']

@@ -5,11 +5,10 @@ require('dotenv').config({
 module.exports = {
   siteMetadata: {
     title: `TTLMakerspace`,
-    author: `Monnisa`,
-    about: `Breakfast procuring no end happiness allowance assurance frank. Met simplicity nor difficulty unreserved who. Entreaties mr conviction dissimilar me
-    astonished estimating cultivated.`,
-    description: `A Gatsby Blog`,
-    siteUrl: `https://storyhub-personal-tarex.redq.now.sh`,
+    author: `OddlyTimbot`,
+    about: `TTLMakerspace is located in Toronto Canada`,
+    description: `A Makerspace in Toronto`,
+    siteUrl: `https://ttlmakerspace.com`,
   },
   plugins: [
     {

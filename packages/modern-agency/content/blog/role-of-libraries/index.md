@@ -1,5 +1,5 @@
 ---
-title: Role of libraries in a social world
+title: Trade Show Booth
 date: '2019-03-05T22:12:03.284Z'
 tags: ['test', 'hooks', 'node']
 cover: './preview.jpg'
