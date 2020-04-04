@@ -10,7 +10,7 @@ import {
 } from "react-icons/io"
 import {
   AboutWrapper,
-  AboutImage,
+  CalendarHolder,
   AboutPageTitle,
   AboutDetails,
   SocialProfiles,
@@ -70,7 +70,7 @@ const About: React.FunctionComponent<AboutProps> = props => {
           events, and learn valuable skills.
         </p>
       </AboutPageTitle>
-      <AboutImage>
+      <CalendarHolder big>
         <iframe
           src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=b2RkbHlzdHVkaW9zLmNvbV9sdm9nMG1ocDlwMHQ3Ym11dDg5aHQzZnF1c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23AD1457&amp;mode=WEEK&amp;showTitle=0&amp;showCalendars=0&amp;showTz=0&amp;showTabs=0"
           width="100%"
@@ -78,7 +78,17 @@ const About: React.FunctionComponent<AboutProps> = props => {
           frameborder="0"
           scrolling="no"
         ></iframe>
-      </AboutImage>
+      </CalendarHolder>
+
+      <CalendarHolder>
+        <iframe
+          src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=b2RkbHlzdHVkaW9zLmNvbV9sdm9nMG1ocDlwMHQ3Ym11dDg5aHQzZnF1c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23AD1457&amp;mode=AGENDA&amp;showTitle=0&amp;showCalendars=0&amp;showTz=0&amp;showTabs=0"
+          width="100%"
+          height="600"
+          frameborder="0"
+          scrolling="no"
+        ></iframe>
+      </CalendarHolder>
 
       <AboutDetails>
         <h2>Hey there, what’s up?</h2>

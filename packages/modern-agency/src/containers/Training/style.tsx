@@ -43,6 +43,15 @@ export const AboutImage = styled.div`
   }
 `
 
+export const CalendarHolder = styled.div`
+  margin-bottom: 90px;
+  display: ${props => (props.big ? "inline" : "none")};
+  @media (max-width: 767px) {
+    display: ${props => (props.big ? "none" : "inline")};
+    margin-bottom: 40px;
+  }
+`
+
 export const AboutDetails = styled.div`
   width: 870px;
   max-width: 100%;
