@@ -76,18 +76,32 @@ const About: React.FunctionComponent<AboutProps> = props => {
       </AboutImage>
 
       <AboutDetails>
-        <h2>Hey there, what’s up?</h2>
+        <h2>How did this place begin?</h2>
         <p>
-          RedQ Team is a creative agency specializing in building scalable,
-          high-performance web & mobile application. Our main concern is
-          creating more value into the application so that can help our
-          customers to grow their business.
+          TTLMakerspace is a project of the IRBE, a charitable organization with
+          the mission to provide access to shared resources for all. The
+          makerspace provides access to skills, training, and equipment to
+          people of all ages and interests.
         </p>
         <p>
-          RedQ Team is a creative agency specializing in building scalable,
-          high-performance web & mobile application. Our main concern is
-          creating more value into the application so that can help our
-          customers to grow their business.
+          We are located at 192 Spadina Ave, Toronto, in the Center for Social
+          Innovation (CSI). As an active member in CSI, the TTLMakerspace
+          participates in multiple events and initiatives with the organization.
+          Many of our members use the facility to produce prototypes or gain
+          skills that help them in their mission to better the planet.
+        </p>
+        <h2>How are you funded?</h2>
+        <p>
+          TTLMakerspace is entirely community-funded. About a third of our
+          expenses are covered by our awesome maker-members who pay a monthly
+          fee to help support the space. Another third comes from offering paid
+          courses and training. And the last third comes from working with some
+          partners that run initiative in the space, like the Alzheimer's
+          Society, and StopGap.
+        </p>
+        <p>
+          That's right. We really are completely community funded - no subsidies
+          of any kind. The TTLMakerspace is by makers, for makers.
         </p>
 
         <SocialProfiles>

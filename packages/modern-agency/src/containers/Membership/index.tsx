@@ -1,6 +1,7 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
+import Button from "components/Button/Button"
 import SocialProfile from "components/SocialProfile/SocialProfile"
 import {
   IoLogoFacebook,
@@ -85,8 +86,9 @@ const About: React.FunctionComponent<AboutProps> = props => {
           Okay, ready to get making? Then come on in! You'll be very welcome at
           the TTLMakerspace.
         </p>
+
         <a href="https://makerspace.cobot.me">
-          Membership Purchase and Management
+          <Button title="Members Portal" />
         </a>
       </AboutPageTitle>
 
