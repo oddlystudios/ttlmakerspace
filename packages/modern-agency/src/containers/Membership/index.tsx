@@ -45,7 +45,7 @@ interface AboutProps {}
 const About: React.FunctionComponent<AboutProps> = props => {
   const Data = useStaticQuery(graphql`
     query {
-      avatar: file(absolutePath: { regex: "/about.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/membership.jpg/" }) {
         childImageSharp {
           fluid(maxWidth: 1770, quality: 90) {
             ...GatsbyImageSharpFluid

@@ -95,8 +95,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `StoryHub - Personal Blog`,
-        short_name: `StoryHub`,
+        name: `TTLMakerspace - Community`,
+        short_name: `TTLMakerspace`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
