@@ -14,8 +14,8 @@ const NotFoundPage = (props: any) => {
       <SEO title="404: Not Found" />
       <NotFound />
       <Footer>
-        Copyright &copy; {new Date().getFullYear()}
-        <a href="https://redq.io/"> RedQ, Inc.</a>
+        Create by &copy; {new Date().getFullYear()}
+        <a href="https://oddlystudios.com/"> OddlyStudios Inc.</a>
       </Footer>
     </>
   )
