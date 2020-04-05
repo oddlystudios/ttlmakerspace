@@ -19,23 +19,18 @@ import {
 const SocialLinks = [
   {
     icon: <IoLogoFacebook />,
-    url: "https://www.facebook.com/redqinc/",
+    url: "https://www.facebook.com/TTLMakerspace-111443950515269/",
     tooltip: "Facebook",
   },
   {
     icon: <IoLogoInstagram />,
-    url: "https://www.instagram.com/redqinc/",
+    url: "https://www.instagram.com/ttlmakerspace/",
     tooltip: "Instagram",
   },
   {
     icon: <IoLogoTwitter />,
-    url: "https://twitter.com/redqinc",
+    url: "https://twitter.com/TTLMakerspace",
     tooltip: "Twitter",
-  },
-  {
-    icon: <IoLogoLinkedin />,
-    url: "https://www.linkedin.com/company/redqinc/",
-    tooltip: "Linked In",
   },
 ]
 

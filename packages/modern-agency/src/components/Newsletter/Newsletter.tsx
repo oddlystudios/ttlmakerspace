@@ -43,7 +43,7 @@ const Newsletter: React.FunctionComponent<NewsletterProps> = ({ ...props }) => {
     <NewsletterWrapper {...props}>
       <NewsletterInnerWrapper>
         <NewsletterTitle>
-          Get The Best Of All Hands Delivered To Your Inbox
+          Get The Best Of Maker News Delivered To Your Inbox
         </NewsletterTitle>
         <NewsletterDescription>
           Subscribe to our newsletter and stay updated.
