@@ -11,12 +11,12 @@ const Tags = ({ pageContext, data }: any) => {
 
   return (
     <Layout>
-      <SEO title={tag} description={`A collection of ${totalCount} post`} />
+      <SEO title={tag} description={`A collection of ${totalCount} projects`} />
 
       <TagPostsWrapper>
         <TagPageHeading>
           <TagName>{tag}</TagName>
-          {`A collection of ${totalCount} post`}
+          {`A collection of ${totalCount} projects`}
         </TagPageHeading>
         {edges.map(({ node, index }: any) => (
           <PostCard

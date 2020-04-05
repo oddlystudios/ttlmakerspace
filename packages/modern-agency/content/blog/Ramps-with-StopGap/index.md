@@ -1,12 +1,9 @@
 ---
-title: TechDrops Podcast on Anchor
-date: '2019-11-06'
-description: Did you know that “despite its name, salted duck eggs can also be made from chicken eggs, though the taste and texture will be somewhat different, and the egg yolk will be less rich.”?
-tags: ['javascript', 'hooks', 'featured']
+title: 'Accessibility Ramps w. StopGap'
+date: '2019-04-16'
 cover: './preview.jpg'
+tags: ['partners']
 ---
-
-Did you know that “despite its name, salted duck eggs can also be made from chicken eggs, though the taste and texture will be somewhat different, and the egg yolk will be less rich.”?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pharetra sapien nibh, sed tempor mauris suscipit ac. Duis libero nibh, porttitor at posuere at, luctus et urna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce et augue vitae nisl ultrices posuere. Sed facilisis metus rutrum, commodo lorem sed, consequat sem. Morbi enim orci, molestie a rutrum cursus, pellentesque nec ligula. Etiam porttitor iaculis purus sed imperdiet. Nulla consectetur eu sem ut dapibus. Duis nec viverra nisl, quis tincidunt massa.
 

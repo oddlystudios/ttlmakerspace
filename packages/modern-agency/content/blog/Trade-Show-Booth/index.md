@@ -1,7 +1,7 @@
 ---
 title: Trade Show Booth
 date: '2019-03-05T22:12:03.284Z'
-tags: ['test', 'hooks', 'node']
+tags: ['commision']
 cover: './preview.jpg'
 ---
 

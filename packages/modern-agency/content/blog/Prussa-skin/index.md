@@ -1,7 +1,7 @@
 ---
 title: Sparkly-Blue Prussa Skin
 date: '2019-04-22'
-tags: ['markdown', 'test', 'unity', 'featured']
+tags: ['members', 'featured']
 cover: './preview-1.jpg'
 ---
 

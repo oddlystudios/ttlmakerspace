@@ -38,6 +38,10 @@ const MenuItems = [
     url: "/training",
   },
   {
+    label: "Commisions",
+    url: "/commisions",
+  },
+  {
     label: "Partners",
     url: "/partners",
   },
