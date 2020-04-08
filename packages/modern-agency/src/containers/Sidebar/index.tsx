@@ -76,11 +76,11 @@ const Sidebar: React.FunctionComponent<SidebarProps> = () => {
       <SidebarWidger>
         <WidgetTitle>Promotion</WidgetTitle>
         <a
-          href="https://1.envato.market/r1jdv"
-          aria-label="Get StoryHub"
+          href="https://anchor.fm/techdrops"
+          aria-label="Get TechDrops"
           target="_blank"
         >
-          <img src={PromotionImage} alt="Get StoryHub" />
+          <img src={PromotionImage} alt="Get TechDrops" />
         </a>
       </SidebarWidger>
 

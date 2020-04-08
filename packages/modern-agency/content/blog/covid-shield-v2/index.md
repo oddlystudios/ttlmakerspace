@@ -22,6 +22,8 @@ Nice features:
 
 TTL Makerspace CNC instructor Marc took the original design and went further, creating a "stacking" system that allows up to 10 visors to be printed at once, then easily snapped apart.
 
+![Stacking](./stackingup.jpg)
+
 Now we're really talking about production - the kind of speed that will be needed to stay ahead of the virus and give our care-workers the protection they need.
 
 ### Production Comparison
@@ -45,13 +47,15 @@ New design units per roll: 60
 
 In addition to designing for speed of production, the V2 design is optimized based on feedback gathered by the team communicating with hospitals. From this, two major considerations were derived.
 
-### Drip-catching Visor
+### 1. Drip-catching Visor
 
 A major difference with the V2 design is the drip-catcher. That's the solid tray that runs along the length of the shield and is intended to make contact with the brow of the wearer.
 
 This feature is important, and missing from the original design. This is a critical consideration currently, because hospitals have had to expand intubation procedures into environments that are not as tightly controlled for airborn isolation (such as a revers-isolation negative pressure room).
 
-### Disposability
+![Drip Catcher](./drip-catcher.jpg)
+
+### 2. Disposability
 
 With the number of procedures vastly increased, many hospitals regulate against re-use of protective gear between patients. The new design is lighter, uses less material, is more compact, and easier to dispose of. With the production gains mentioned above, the new design ends up being the winner in terms of being well-matched to the need.
 
