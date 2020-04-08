@@ -1,7 +1,7 @@
 ---
 title: TechDrops Podcast on Anchor
 date: '2019-11-06'
-tags: ['members', 'featured']
+tags: ['members']
 cover: './preview.jpg'
 ---
 
