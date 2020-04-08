@@ -34,7 +34,7 @@ interface AboutProps {}
 const About: React.FunctionComponent<AboutProps> = props => {
   const Data = useStaticQuery(graphql`
     query {
-      avatar: file(absolutePath: { regex: "/commisions.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/placeholder.jpg/" }) {
         childImageSharp {
           fluid(maxWidth: 1770, quality: 90) {
             ...GatsbyImageSharpFluid
@@ -61,7 +61,12 @@ const About: React.FunctionComponent<AboutProps> = props => {
         <h3>Have at it!</h3>
       </AboutPageTitle>
 
-      <p>Images used in this page will be auto-optimized during compilation.</p>
+      <p>
+        Images used in this page will be auto-optimized during compilation.
+        Gatsby uses Sharper. The image below has had it's max width and quality
+        settings specified in the GraphQL query. Don't worry too much about
+        that, I can help integrate any images.
+      </p>
       <p>
         Compilation optimizes ALL files and outputs everything as static
         optimized HTML. It also does everything needed to make the site a full
@@ -81,19 +86,7 @@ const About: React.FunctionComponent<AboutProps> = props => {
           voluptatem in ratione commodi dicta ullam aut? Illum dolore ducimus
           libero molestiae, id veritatis.
         </p>
-        <p>
-          We have done projects like these:
-          <ul>
-            <li>Leatherwork - labels</li>
-            <li>Display signage</li>
-            <li>Trade Show Booths</li>
-            <li>POS Devices</li>
-            <li>Interactive Installations</li>
-            <li>Custom Cabinetry</li>
-            <li>Flat-pack furniture</li>
-            <li>Websites, Software, Games</li>
-          </ul>
-        </p>
+
         <h2>How do I donate?</h2>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Id distinctio
