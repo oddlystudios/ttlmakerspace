@@ -1,7 +1,7 @@
 ---
 title: Covid Shield V2
 date: '2020-04-02'
-description: An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
+description: TTL Makerspace members are helping Toronto Hospitals fight COVID-19
 tags: ['commision', 'featured']
 cover: './preview.jpg'
 ---
