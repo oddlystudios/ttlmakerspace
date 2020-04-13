@@ -61,7 +61,7 @@ With the number of procedures vastly increased, many hospitals regulate against 
 
 ### Something to Think About
 
-While the process got started early-on for the TTL Makers, production was guided by information gathered directly from qualified health-care workers. As a result, the design that emmerged is very likely quite unlike what would have been produced had we proceeded on our own.
+While the process got started early-on for the TTL Makers, production was guided by information gathered directly from qualified health-care workers. As a result, the design that emmerged is unlike what would have been produced had we proceeded on our own.
 
 This is a powerful testimony to the importance of communication, of planning, and skillful iteration. There's a time to just dive in and build - but this wasn't such a time. It's been nice to see Makers rise to the occasion, work collaboratively, and contribute significantly to the fight against COVID-19.
 

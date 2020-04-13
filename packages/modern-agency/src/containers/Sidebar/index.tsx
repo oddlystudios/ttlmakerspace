@@ -77,7 +77,7 @@ const Sidebar: React.FunctionComponent<SidebarProps> = () => {
       </SidebarWidger>
 
       <SidebarWidger>
-        <WidgetTitle>Latest Post</WidgetTitle>
+        <WidgetTitle>Latest Projects</WidgetTitle>
         {Posts.map(({ node }: any) => {
           const title = node.frontmatter.title || node.fields.slug
           //Random Placeholder Color

@@ -1,5 +1,32 @@
 import styled from "styled-components"
 import { themeGet } from "styled-system"
+import HeroDarkSide from "../../images/heroDarkSide.jpg"
+import ProdBack from "../../images/prodBack.svg"
+
+export const CovidHero = styled.div`
+  padding-top: 20vh;
+  height: 80vh;
+  background: #000000;
+  background-image: url("${HeroDarkSide}");
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+`
+
+export const CovidProd = styled.div`
+padding-top:5rem;
+	padding-bottom:5rem;
+  background-image: url("${ProdBack}");
+  background-repeat: no-repeat;
+  background-position: center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+`
 
 export const AboutWrapper = styled.div`
   position: relative;
