@@ -1,7 +1,7 @@
 import React from "react"
-import Layout from "../components/layoutCovid"
+import Layout from "../components/layout"
 import SEO from "../components/seo"
-import About from "../containers/CovidRelief"
+import About from "../containers/HomePage"
 
 type AboutPageProps = {}
 
