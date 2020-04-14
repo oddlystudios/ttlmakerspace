@@ -6,6 +6,7 @@ import Navbar from "./Navbar/Navbar"
 import Newsletter from "./Newsletter/Newsletter"
 import Footer from "./Footer/Footer"
 import ScrollUpButton from "./ScrollUpButton/ScrollUpButton"
+import FullResetCss from "./resetCSS"
 import ResetCss from "./covidCSS"
 import FoundationCss from "./foundationCSS"
 import { theme } from "../theme"
@@ -18,6 +19,7 @@ const Layout: React.FunctionComponent<LayoutProps> = ({ children }) => {
   return (
     <ThemeProvider theme={theme}>
       <>
+        <FullResetCss />
         <FoundationCss />
         <ResetCss />
         <Sticky top={0} innerZ={9999} activeClass="nav-sticky">

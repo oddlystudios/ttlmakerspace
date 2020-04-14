@@ -1,5 +1,5 @@
 ---
-title: Covid Shield V2
+title: Light Duty Face Shields
 date: '2020-04-02'
 description: TTL Makerspace members are helping Toronto Hospitals fight COVID-19
 tags: ['commision', 'featured']

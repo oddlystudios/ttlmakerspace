@@ -7,7 +7,7 @@ module.exports = {
     title: `TTLMakerspace`,
     author: `OddlyTimbot`,
     about: `TTLMakerspace is located in Toronto Canada`,
-    description: `A Makerspace in Toronto`,
+    description: `Makers respond to COVID-19 in Toronto.`,
     siteUrl: `https://ttlmakerspace.com`,
   },
   plugins: [
