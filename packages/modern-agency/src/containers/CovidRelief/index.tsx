@@ -155,7 +155,7 @@ const About: React.FunctionComponent<AboutProps> = props => {
                   <span class="dot greenDot"></span>in production
                 </div>
                 <div class="cvdDesc">Medium Duty Face Shields</div>
-                <div class="cvdCount">125</div>
+                <div class="cvdCount">24</div>
               </div>
             </div>
             <div class="small-6 large-3 cell">
@@ -167,7 +167,7 @@ const About: React.FunctionComponent<AboutProps> = props => {
                   <span class="dot greenDot"></span>in production
                 </div>
                 <div class="cvdDesc">Light Duty Face Shields</div>
-                <div class="cvdCount">125</div>
+                <div class="cvdCount">285</div>
               </div>
             </div>
             <div class="small-6 large-3 cell">
@@ -179,7 +179,7 @@ const About: React.FunctionComponent<AboutProps> = props => {
                   <span class="dot orangeDot"></span>in development
                 </div>
                 <div class="cvdDesc">Intubation Boxes</div>
-                <div class="cvdCount">125</div>
+                <div class="cvdCount">1</div>
               </div>
             </div>
             <div class="small-6 large-3 cell">
@@ -191,7 +191,7 @@ const About: React.FunctionComponent<AboutProps> = props => {
                   <span class="dot blueDot"></span>in development
                 </div>
                 <div class="cvdDesc">Coming Soon</div>
-                <div class="cvdCount">125</div>
+                <div class="cvdCount">45</div>
               </div>
             </div>
           </div>
