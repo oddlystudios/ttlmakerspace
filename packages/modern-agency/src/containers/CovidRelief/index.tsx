@@ -9,6 +9,7 @@ import LightFace from "../../images/LightFace.svg"
 import Valve from "../../images/Valve.svg"
 import Intubation from "../../images/Intubation.svg"
 import Headbands from "../../images/HeadBand3.svg"
+import MGFaceShield from "../../images/MGFaceShield.svg"
 import { CovidHero, CovidProd } from "./style"
 
 interface AboutProps {}
@@ -169,6 +170,18 @@ const About: React.FunctionComponent<AboutProps> = props => {
                 </div>
                 <div class="cvdDesc">Light Duty Face Shields</div>
                 <div class="cvdCount">285</div>
+              </div>
+            </div>
+            <div class="small-6 large-3 cell">
+              <div class="prodCard">
+                <div class="prodImg">
+                  <img src={MGFaceShield} />
+                </div>
+                <div class="statusBox green">
+                  <span class="dot greenDot"></span>in production
+                </div>
+                <div class="cvdDesc">3 Hole Face Shields</div>
+                <div class="cvdCount">35</div>
               </div>
             </div>
             <div class="small-6 large-3 cell">
