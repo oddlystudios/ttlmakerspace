@@ -67,6 +67,9 @@ h1{
 	margin-bottom:5rem;
 }
 
+.prodCard{
+	margin-bottom: 2rem;
+}
 .cvdProd .centerText{
 	text-align:center;
 	padding:2rem;

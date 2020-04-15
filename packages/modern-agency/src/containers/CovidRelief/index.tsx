@@ -8,6 +8,7 @@ import MediumFace from "../../images/MediumFace.svg"
 import LightFace from "../../images/LightFace.svg"
 import Valve from "../../images/Valve.svg"
 import Intubation from "../../images/Intubation.svg"
+import Headbands from "../../images/HeadBand3.svg"
 import { CovidHero, CovidProd } from "./style"
 
 interface AboutProps {}
@@ -173,6 +174,18 @@ const About: React.FunctionComponent<AboutProps> = props => {
             <div class="small-6 large-3 cell">
               <div class="prodCard">
                 <div class="prodImg">
+                  <img src={Headbands} />
+                </div>
+                <div class="statusBox green">
+                  <span class="dot greenDot"></span>in production
+                </div>
+                <div class="cvdDesc">Mask Headbands</div>
+                <div class="cvdCount">19</div>
+              </div>
+            </div>
+            <div class="small-6 large-3 cell">
+              <div class="prodCard">
+                <div class="prodImg">
                   <img src={Intubation} />
                 </div>
                 <div class="statusBox orange">
@@ -182,16 +195,17 @@ const About: React.FunctionComponent<AboutProps> = props => {
                 <div class="cvdCount">1</div>
               </div>
             </div>
+
             <div class="small-6 large-3 cell">
               <div class="prodCard">
                 <div class="prodImg">
                   <img src={Valve} />
                 </div>
                 <div class="statusBox blue">
-                  <span class="dot blueDot"></span>in development
+                  <span class="dot blueDot"></span>in approval
                 </div>
                 <div class="cvdDesc">Coming Soon</div>
-                <div class="cvdCount">45</div>
+                <div class="cvdCount">93</div>
               </div>
             </div>
           </div>
