@@ -20,7 +20,7 @@ Nice features:
 - Less material cost
 - Lower print times equal greater production
 
-TTL Makerspace CNC instructor Marc took the original design and went further, creating a "stacking" system that allows up to 10 visors to be printed at once, then easily snapped apart.
+TTL Makerspace 3D Print instructor Kyle took the original design and went further, creating a "stacking" system that allows up to 10 visors to be printed at once, then easily snapped apart.
 
 ![Stacking](./stackingup.jpg)
 
