@@ -149,64 +149,74 @@ const About: React.FunctionComponent<AboutProps> = props => {
           </div>
           <div class="grid-x grid-padding-x">
             <div class="small-6 large-3 cell">
-              <div class="prodCard">
-                <div class="prodImg">
-                  <img src={MediumFace} />
+              <a href="#">
+                <div class="prodCard">
+                  <div class="prodImg">
+                    <img src={MediumFace} />
+                  </div>
+                  <div class="statusBox green">
+                    <span class="dot greenDot"></span>in production
+                  </div>
+                  <div class="cvdDesc">Medium Duty Face Shields</div>
+                  <div class="cvdCount">24</div>
                 </div>
-                <div class="statusBox green">
-                  <span class="dot greenDot"></span>in production
-                </div>
-                <div class="cvdDesc">Medium Duty Face Shields</div>
-                <div class="cvdCount">24</div>
-              </div>
+              </a>
             </div>
             <div class="small-6 large-3 cell">
-              <div class="prodCard">
-                <div class="prodImg">
-                  <img src={LightFace} />
+              <a href="/covid-shield-v2/">
+                <div class="prodCard">
+                  <div class="prodImg">
+                    <img src={LightFace} />
+                  </div>
+                  <div class="statusBox green">
+                    <span class="dot greenDot"></span>in production
+                  </div>
+                  <div class="cvdDesc">Light Duty Face Shields</div>
+                  <div class="cvdCount">300</div>
                 </div>
-                <div class="statusBox green">
-                  <span class="dot greenDot"></span>in production
-                </div>
-                <div class="cvdDesc">Light Duty Face Shields</div>
-                <div class="cvdCount">285</div>
-              </div>
+              </a>
             </div>
             <div class="small-6 large-3 cell">
-              <div class="prodCard">
-                <div class="prodImg">
-                  <img src={MGFaceShield} />
+              <a href="/3hole-face-shield/">
+                <div class="prodCard">
+                  <div class="prodImg">
+                    <img src={MGFaceShield} />
+                  </div>
+                  <div class="statusBox green">
+                    <span class="dot greenDot"></span>in production
+                  </div>
+                  <div class="cvdDesc">3 Hole Face Shields</div>
+                  <div class="cvdCount">86</div>
                 </div>
-                <div class="statusBox green">
-                  <span class="dot greenDot"></span>in production
-                </div>
-                <div class="cvdDesc">3 Hole Face Shields</div>
-                <div class="cvdCount">86</div>
-              </div>
+              </a>
             </div>
             <div class="small-6 large-3 cell">
-              <div class="prodCard">
-                <div class="prodImg">
-                  <img src={Headbands} />
+              <a href="/comfort-bands/">
+                <div class="prodCard">
+                  <div class="prodImg">
+                    <img src={Headbands} />
+                  </div>
+                  <div class="statusBox green">
+                    <span class="dot greenDot"></span>in production
+                  </div>
+                  <div class="cvdDesc">Mask Headbands</div>
+                  <div class="cvdCount">19</div>
                 </div>
-                <div class="statusBox green">
-                  <span class="dot greenDot"></span>in production
-                </div>
-                <div class="cvdDesc">Mask Headbands</div>
-                <div class="cvdCount">19</div>
-              </div>
+              </a>
             </div>
             <div class="small-6 large-3 cell">
-              <div class="prodCard">
-                <div class="prodImg">
-                  <img src={Intubation} />
+              <a href="/covid-intubation-box/">
+                <div class="prodCard">
+                  <div class="prodImg">
+                    <img src={Intubation} />
+                  </div>
+                  <div class="statusBox orange">
+                    <span class="dot orangeDot"></span>in development
+                  </div>
+                  <div class="cvdDesc">Intubation Boxes</div>
+                  <div class="cvdCount">1</div>
                 </div>
-                <div class="statusBox orange">
-                  <span class="dot orangeDot"></span>in development
-                </div>
-                <div class="cvdDesc">Intubation Boxes</div>
-                <div class="cvdCount">1</div>
-              </div>
+              </a>
             </div>
 
             <div class="small-6 large-3 cell">

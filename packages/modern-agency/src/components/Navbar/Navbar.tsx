@@ -85,6 +85,7 @@ const Navbar: React.FunctionComponent<NavbarProps> = ({
           <Link to="/">
             <img src={LogoImage} alt="logo" />
           </Link>
+          <p class="mouseText">A Project of IRBE.org</p>
         </Logo>
         <MenuWrapper>
           <Menu items={MenuItems} />

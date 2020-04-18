@@ -140,5 +140,8 @@ const ResetCSS = createGlobalStyle`
     }
     
   }
+  .mouseText{
+    font-size: 9px;
+  }
 `
 export default ResetCSS
