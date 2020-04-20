@@ -200,7 +200,7 @@ const About: React.FunctionComponent<AboutProps> = props => {
                     <span class="dot greenDot"></span>in production
                   </div>
                   <div class="cvdDesc">Mask Headbands</div>
-                  <div class="cvdCount">19</div>
+                  <div class="cvdCount">49</div>
                 </div>
               </a>
             </div>

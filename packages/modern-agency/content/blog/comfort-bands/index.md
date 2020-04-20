@@ -17,6 +17,8 @@ Unlike the other parts we're producing, the comfort band is a 2D design. That gi
 
 On the other hand, using the laser cutter produces a similar part in seconds, and allows for a wider variety of materials to be used - textiles, many plastics, etc. The one major caveat with the laser is that no material with the potential to off-gas chlorine can be used. That includes any kind of poly-vinyl carbonate (PVC). Such gasses are harmful, and very difficult to remove through exhaust scrubbing.
 
+![Laser STack](./laser_bands.jpg)
+
 In the photo above you can see the laser-cut version, which is lightweight and very flexible. You can bend it in a complete circle and it won't break.
 
 The 3D printed version has yield, but it can definitely be broken if it is flexed too hard.
