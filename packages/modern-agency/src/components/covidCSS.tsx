@@ -8,6 +8,22 @@ body{
 	font-family: 'Fira Sans', sans-serif;
 	text-rendering: optimizeLegibility;
 }
+a:link {
+	color: #000000;
+  }
+  
+a:visited {
+color: #000000;
+}
+
+a:hover {
+color: #000000;
+}
+
+a:active {
+color: #000000;
+} 
+
 h1, h2, h3{
 	color:#003861;
 	line-height: 2rem;
