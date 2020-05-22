@@ -54,6 +54,16 @@ const About: React.FunctionComponent<AboutProps> = props => {
               >
                 Donate with CanadaHelps.ca
               </a>
+              <p></p>
+              <h2>Visit our site to join!</h2>
+              <p></p>
+              <a
+                href="http://covid19.ttlmakerspace.com/"
+                target="_blank"
+                class="btn"
+              >
+                Visit the Site
+              </a>
             </div>
           </div>
         </div>
