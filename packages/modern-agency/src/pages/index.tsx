@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Layout from "../components/layoutCovid"
-import PersonalBlog from "../containers/CovidRelief"
+import Layout from "../components/layout"
+import PersonalBlog from "../containers/HomePage"
 import SEO from "../components/seo"
 
 const PersonalBlogPage = (props: any) => {

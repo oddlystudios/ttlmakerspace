@@ -26,10 +26,6 @@ const MenuItems = [
     url: "/",
   },
   {
-    label: "Projects",
-    url: "/covid-relief",
-  },
-  {
     label: "About",
     url: "/about",
   },

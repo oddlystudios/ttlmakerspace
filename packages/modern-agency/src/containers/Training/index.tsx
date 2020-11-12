@@ -82,14 +82,7 @@ const About: React.FunctionComponent<AboutProps> = props => {
           below.
         </p>
 
-        <h1>
-          PLEASE NOTE: Due to closures related to COVID-19 training at
-          TTLMakerspace is suspended.
-        </h1>
-        <h2>
-          To see what we're doing to help the people beating COVID-19, visit the
-          homepage.
-        </h2>
+        <h1>PLEASE NOTE: Training is returning following the C19 closure!</h1>
 
         <a
           href="https://www.universe.com/users/ttlmakerspace-LX7DSH"
