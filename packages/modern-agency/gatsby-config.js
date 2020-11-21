@@ -123,20 +123,5 @@ module.exports = {
           'https://oddlystudios.us9.list-manage.com/subscribe/post?u=1d7054c62a676d12369f0215f&amp;id=3f3f44a2b4', // add your MC list endpoint here; see instructions below
       },
     },
-    {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
-      options: {
-        fonts: [
-          {
-            family: `Poppins`,
-            variants: [`300`, `400`, `500`, `600`, `700`],
-          },
-          {
-            family: `Fira Sans`,
-            variants: [`100`, `300`, `400`, `500`, `600`, `700`],
-          },
-        ],
-      },
-    },
   ],
 }
