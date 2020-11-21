@@ -60,11 +60,15 @@ const About: React.FunctionComponent<AboutProps> = props => {
     <AboutWrapper>
       <AboutPageTitle>
         <h2>Training at TTLMakerspace</h2>
+        <h1>
+          PLEASE NOTE: Effective Nov. 23, 2020 training is paused at TTL
+          Makerspace during C19 lockdown.
+        </h1>
         <p>
           At the TTLMakerspace you can get training to increase your hands-on
           skills on a wide variety of equipment, from traditional to high-tech.
-          We have programs for every age and interest. Programs run weekly. See
-          what we're doing this week below.
+          We have programs for every age and interest. Programs usually run
+          weekly, but have been paused during C19 lockdown.
         </p>
         <h3>Ready to Train?</h3>
         <p>Here is a handy checklist:</p>
@@ -81,8 +85,6 @@ const About: React.FunctionComponent<AboutProps> = props => {
           TTLMakerspace. See our upcoming courses and workshops at Universe
           below.
         </p>
-
-        <h1>PLEASE NOTE: Training is returning following the C19 closure!</h1>
 
         <a
           href="https://www.universe.com/users/ttlmakerspace-LX7DSH"

@@ -22,7 +22,7 @@ type NavbarProps = {
 
 const MenuItems = [
   {
-    label: "Home",
+    label: "Projects",
     url: "/",
   },
   {

@@ -58,11 +58,20 @@ const About: React.FunctionComponent<AboutProps> = props => {
   return (
     <AboutWrapper>
       <AboutPageTitle>
-        <h2>About TTLMakerspace</h2>
+        <h2>About TTLMakerspace and C19</h2>
         <p>
-          The TTLMakerspace is a well-equipped community center, where makers of
-          all kinds come to work on projects, share information, participate in
-          events, and learn valuable skills.
+          TTL Makerspace has been completely redesigned, implementing protective
+          screens at all stations, sanitization facilities, a check in/out and
+          contact tracing. However the Makerspace is not considered an essential
+          service, and while set up to operate very well even at what is now
+          considered “code red” conditions, this does not extend to “code grey”,
+          or lockdown. We will be back the moment lockdown completes, and we’re
+          very sympathetic to our community of makers that will have to endure
+          these conditions.
+        </p>
+        <p>
+          The TTL Makerspace will unfortunately be closed during lockdown,
+          effective November 23, 2020, until restrictions are lifted.
         </p>
       </AboutPageTitle>
 

@@ -59,13 +59,23 @@ const About: React.FunctionComponent<AboutProps> = props => {
   return (
     <AboutWrapper>
       <AboutPageTitle>
-        <h2>Membership with TTLMakerspace</h2>
+        <h2>Membership during C19</h2>
         <p>
-          Members are the heart of the Makerspace, our main supporters, and the
-          reason we do what we do. They come from all backgrounds, from highly
-          experienced to brand-new to making. For all the details, and to find
-          out if supporting the Makerspace with a membership is right for you,
-          take a look at the FAQ below.
+          IMPORTANT NOTICE: During C19 lockdown, memberships are being paused,
+          reassigned to the "Occasional Maker" tier, and membership payments
+          suspended. You can still create a membership, get updates, and can log
+          in to your account, but during full lockdown access to the physical
+          location is suspended.
+        </p>
+        <p>
+          TTL Makerspace was likewise completely redesigned, implementing
+          protective screens at all stations, sanitization facilities, a check
+          in/out and contact tracing. However the Makerspace is not considered
+          an essential service, and while set up to operate very well even at
+          what is now considered “code red” conditions, this does not extend to
+          “code grey”, or lockdown. We will be back the moment lockdown
+          completes, and we’re very sympathetic to our community of makers that
+          will have to endure these conditions.
         </p>
         <h3>Ready to Join?</h3>
         <p>Here is a handy checklist:</p>
@@ -130,7 +140,7 @@ const About: React.FunctionComponent<AboutProps> = props => {
           <ul>
             <li>WoodShop: None</li>
             <li>3D Printers: None (pay by weight of print)</li>
-            <li>Epilog Laser Cutter: $10/hr</li>
+            <li>Laser Cutter: TBA</li>
             <li>Omni CNC Mill: $25/hr</li>
           </ul>
         </p>
@@ -149,9 +159,12 @@ const About: React.FunctionComponent<AboutProps> = props => {
         <h3>Certification Fees</h3>
         <p>
           <ul>
-            <li>Woodshop Single Certification Session: $52</li>
-            <li>3D Printer Intro and Certification: $45</li>
-            <li>Epilog Laser Cutter Introduction: $45</li>
+            <li>Woodshop Single Certification Session: $45</li>
+            <li>
+              3D Printer Intro and Certification: $40 (includes one day pass)
+            </li>
+            <li>Lathe Introduction: $40 (includes one day pass)</li>
+            <li>Laser Cutter Introduction: TBA</li>
             <li>
               Omni CNC Mill Introductory Course: $240 (comes with a day-pass,
               and 2 hours booking)
